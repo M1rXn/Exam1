@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+<text question = "Деревя...ый?" answers = "нн**?**н**?**В зависимости от предложения" correct = "нн"> Варианты: </text>
+<text question = " Пар.ход?" answers = "о**?**а**?**-" correct = "о"> Варианты: </text>
+<text question = "Чащ.?" answers = "я**?**а**?**ьа" correct = "а"> Варианты: </text>
+<text question = "Пари" answers = "ш**?**шь**?**ж" correct = "ж"> Варианты: </text>
+<text question = "Диску.ия?" answers = "с**?**сь**?**сс" correct = "сс"> Варианты: </text>
+<text question = "Урожде.ый?" answers = "нн**?**н**?**нъ" correct = "нн"> Варианты: </text>
+<text question = "Гума.ость?" answers = "н**?**нн**?**В зависимости от предложения" correct = "нн"> Варианты: </text>
+<text question = "Окороч.к?" answers = "е**?**о**?**ьё" correct = "о"> Варианты: </text>
+<text question = "Вам понравился тест?" answers = "Норм**?**Не плохо**?**Очень понравился" correct = "Очень понравился"> Варианты: </text>
+<text question = "Какая у нас оценка?" answers = "4**?**5**?**6" correct = "5"> Варианты: </text>
+</content>
